@@ -160,11 +160,10 @@ cython_debug/
 #.idea/
 
 
-/RNN Family/sml2010
+/RNN Family/sml2010/
 
-/RNN Family/ConvRNN
+/RNN Family/ConvRNN/
 
 
-/bitcoin_data
+/bitcoin_data/
 
-/AC_models/data
